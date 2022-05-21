@@ -1,0 +1,14 @@
+D:\Source\repos\C# OOP Exam - 09 April 2022 - unit test\SmartphoneShop\bin\Debug\netcoreapp3.1\SmartphoneShop.exe
+D:\Source\repos\C# OOP Exam - 09 April 2022 - unit test\SmartphoneShop\bin\Debug\netcoreapp3.1\SmartphoneShop.deps.json
+D:\Source\repos\C# OOP Exam - 09 April 2022 - unit test\SmartphoneShop\bin\Debug\netcoreapp3.1\SmartphoneShop.runtimeconfig.json
+D:\Source\repos\C# OOP Exam - 09 April 2022 - unit test\SmartphoneShop\bin\Debug\netcoreapp3.1\SmartphoneShop.runtimeconfig.dev.json
+D:\Source\repos\C# OOP Exam - 09 April 2022 - unit test\SmartphoneShop\bin\Debug\netcoreapp3.1\SmartphoneShop.dll
+D:\Source\repos\C# OOP Exam - 09 April 2022 - unit test\SmartphoneShop\bin\Debug\netcoreapp3.1\SmartphoneShop.pdb
+D:\Source\repos\C# OOP Exam - 09 April 2022 - unit test\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.csproj.AssemblyReference.cache
+D:\Source\repos\C# OOP Exam - 09 April 2022 - unit test\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\repos\C# OOP Exam - 09 April 2022 - unit test\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.AssemblyInfoInputs.cache
+D:\Source\repos\C# OOP Exam - 09 April 2022 - unit test\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.AssemblyInfo.cs
+D:\Source\repos\C# OOP Exam - 09 April 2022 - unit test\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.csproj.CoreCompileInputs.cache
+D:\Source\repos\C# OOP Exam - 09 April 2022 - unit test\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.dll
+D:\Source\repos\C# OOP Exam - 09 April 2022 - unit test\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.pdb
+D:\Source\repos\C# OOP Exam - 09 April 2022 - unit test\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Source\repos\C# OOP Exam - 09 April 2022\Formula1\bin\Debug\netcoreapp3.1\Formula1.exe
+D:\Source\repos\C# OOP Exam - 09 April 2022\Formula1\bin\Debug\netcoreapp3.1\Formula1.deps.json
+D:\Source\repos\C# OOP Exam - 09 April 2022\Formula1\bin\Debug\netcoreapp3.1\Formula1.runtimeconfig.json
+D:\Source\repos\C# OOP Exam - 09 April 2022\Formula1\bin\Debug\netcoreapp3.1\Formula1.runtimeconfig.dev.json
+D:\Source\repos\C# OOP Exam - 09 April 2022\Formula1\bin\Debug\netcoreapp3.1\Formula1.dll
+D:\Source\repos\C# OOP Exam - 09 April 2022\Formula1\bin\Debug\netcoreapp3.1\Formula1.pdb
+D:\Source\repos\C# OOP Exam - 09 April 2022\Formula1\obj\Debug\netcoreapp3.1\Formula1.csproj.AssemblyReference.cache
+D:\Source\repos\C# OOP Exam - 09 April 2022\Formula1\obj\Debug\netcoreapp3.1\Formula1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\repos\C# OOP Exam - 09 April 2022\Formula1\obj\Debug\netcoreapp3.1\Formula1.AssemblyInfoInputs.cache
+D:\Source\repos\C# OOP Exam - 09 April 2022\Formula1\obj\Debug\netcoreapp3.1\Formula1.AssemblyInfo.cs
+D:\Source\repos\C# OOP Exam - 09 April 2022\Formula1\obj\Debug\netcoreapp3.1\Formula1.csproj.CoreCompileInputs.cache
+D:\Source\repos\C# OOP Exam - 09 April 2022\Formula1\obj\Debug\netcoreapp3.1\Formula1.dll
+D:\Source\repos\C# OOP Exam - 09 April 2022\Formula1\obj\Debug\netcoreapp3.1\Formula1.pdb
+D:\Source\repos\C# OOP Exam - 09 April 2022\Formula1\obj\Debug\netcoreapp3.1\Formula1.genruntimeconfig.cache
